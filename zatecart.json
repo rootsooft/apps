@@ -6,7 +6,7 @@
       "app_update_desc": "حمله الآن من منصة جوجل بلاي",
       "app_update_status": "false",
       "cancel_update_status": "true",
-      "app_status": "off"
+      "app_status": "on"
     }
   ],
   "settings": [
@@ -17,9 +17,9 @@
   ],
   "ads": [
     {
-      "ad_status": "off",
+      "ad_status": "on",
       "big_ad_status": "on",
-      "inter_status": "off",
+      "inter_status": "on",
       "ad_network": "admob",
       "admob_small_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_medium_banner": "ca-app-pub-3940256099942544/6300978111",
