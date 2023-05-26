@@ -6,7 +6,7 @@
       "app_update_desc": "حمله الآن من منصة جوجل بلاي",
       "app_update_status": "false",
       "cancel_update_status": "true",
-      "app_stop_status": "off"
+      "app_stop_status": "on"
     }
   ],
   "settings": [
