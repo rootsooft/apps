@@ -10,7 +10,8 @@
   ],
   "settings": [
     {
-      "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed"
+     "fcm_notification_topic": "blogger_stream_topic",
+     "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed"
 
     }
   ],
