@@ -15,7 +15,13 @@
     "redirect_url": ""
     }
   ],
-  "notification": [
+ "notification": [
+    {
+"fcm_notification_topic": "blogger_videos_channel_topic",
+"onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed"
+    }
+  ],
+  "ads": [
     {
       "ad_status": "1",
 	"ad_type": "admob",
@@ -39,26 +45,31 @@
 	"native_ad_index": 3
     }
   ],
-  "socials": [
+  "labels": [
     {
-      "social_name": "Website",
-      "social_icon": "https://soundfm.com.br/assets/img/android-img/site.png",
-      "social_url": "https://soundfm.com.br/"
+     "term": "Animation",
+     "image": "https://i.ibb.co/0DytpPF/1.png"
     },
     {
-      "social_name": "Facebook",
-      "social_icon": "https://soundfm.com.br/assets/img/android-img/facebook.png",
-      "social_url": "https://facebook.com/soundfm.com.br/"
+      "term": "Blender"
+      "image": "https://i.ibb.co/Yjb7YSz/B1.png"
     },
     {
-      "social_name": "Twitter",
-      "social_icon": "https://soundfm.com.br/assets/img/android-img/twitter.png",
-      "social_url": "https://twitter.com/radiosoundfm/"
+      "term": "Cars",
+      "image": "https://i.ibb.co/GMFgvr8/3.png"
     },
     {
-      "social_name": "Instagram",
-      "social_icon": "https://soundfm.com.br/assets/img/android-img/instagram.png",
-      "social_url": "https://instagram.com/soundfm.com.br/"
+      "term": "Family",
+      "image": "https://i.ibb.co/TWDyDF4/f.png"
+	    },
+    {
+      "term": "Google",
+      "image": "https://i.ibb.co/bsN34Yv/g.png"
+    },
+    {
+      "term": "Technology",
+      "image": "https://i.ibb.co/71cYY31/t.png" 
+	    
     }
   ]
 }
