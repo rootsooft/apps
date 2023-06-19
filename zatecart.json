@@ -1,29 +1,19 @@
 {
   "update": [
     {
-      "status": "2",
-      "app_new_version": "0",
+      "app_new_version": "33",
       "app_redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.vone",
       "app_update_desc": "حمله الآن من منصة جوجل بلاي",
       "app_update_status": "true",
-      "cancel_update_status": "true",
-      "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.staysi"
+      "cancel_update_status": "true"
     }
   ],
   "settings": [
     {
-      "onesignal_app_id": "03acb109-36b0-4ef8-919d-ff4512c31dde",
-     "privacy_policy_url": "https://privacydevwh.blogspot.com/2021/12/privacy-policy.html"
+      "onesignal_app_id": "03acb109-36b0-4ef8-919d-ff4512c31dde"
 
     }
   ],
-   "notification": [
-    {
-     "fcm_notification_topic": "blogger_stream_topic",
-     "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed"
-    }
-  ],
- 
   "ads": [
     {
       "ad_status": "on",
