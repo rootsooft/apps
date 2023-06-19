@@ -7,14 +7,14 @@
       "app_update_desc": "حمله الآن من منصة جوجل بلاي",
       "app_update_status": "true",
       "cancel_update_status": "true",
-      "redirect_url": "https://play.google.com/store/apps/details?id=com.rhands.nastya"
-
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.staysi"
     }
   ],
   "settings": [
     {
      "fcm_notification_topic": "blogger_stream_topic",
-     "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed"
+     "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed",
+      "privacy_policy_url": "https://privacydevwh.blogspot.com/2021/12/privacy-policy.html"
 
     }
   ],
@@ -31,6 +31,7 @@
       "big_ad_status": "on",
       "inter_status": "on",
       "ad_network": "admob",
+      "admob_publisher_id": "pub-9760311877159894",
       "admob_small_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_medium_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_inter": "ca-app-pub-3940256099942544/8691691433",
