@@ -1,17 +1,20 @@
 {
   "update": [
     {
-      "app_new_version": "33",
+      "status": "2",
+      "app_new_version": "0",
       "app_redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.vone",
       "app_update_desc": "حمله الآن من منصة جوجل بلاي",
       "app_update_status": "true",
-      "cancel_update_status": "true"
+      "cancel_update_status": "true",
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.staysi"
     }
   ],
   "settings": [
     {
-      "onesignal_app_id": "03acb109-36b0-4ef8-919d-ff4512c31dde"
-
+     "fcm_notification_topic": "blogger_stream_topic",
+     "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed",
+     "privacy_policy_url": "https://privacydevwh.blogspot.com/2021/12/privacy-policy.html"
     }
   ],
    "notification": [
@@ -20,6 +23,7 @@
      "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed"
     }
   ],
+ 
   "ads": [
     {
       "ad_status": "on",
@@ -28,7 +32,7 @@
       "ad_network": "admob",
       "admob_small_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_medium_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_inter": "ca-app-pub-3940256099942544/8691691433",
       "admob_native": "ca-app-pub-3940256099942544/2247696110",
       "admob_publisher_id": "pub-3940256099942544",
       "facebook_small_banner": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -38,8 +42,8 @@
       "applovin_small_banner": "c5fa87d1dfd51b4d",
       "applovin_medium_banner": "c5fa87d1dfd51b4d",
       "applovin_inter": "781dbc69cc014a5e",
-      "applovin_native": "",
-      "startapp_app_id": "208651629work",
+      "applovin_native": "80d0709565e1129c",
+      "startapp_app_id": "204425496",
       "unity_game_id": "4613148",
       "banner_unity_id": "0",
       "interstitial_unity_id": "0",
@@ -48,4 +52,3 @@
     }
   ]
 }
-
