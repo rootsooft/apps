@@ -23,7 +23,6 @@
      "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed"
     }
   ],
- 
   "ads": [
     {
       "ad_status": "on",
@@ -49,7 +48,6 @@
       "banner_unity_id": "0",
       "interstitial_unity_id": "0",
       "inter_clicks": 3
-
     }
   ]
 }
