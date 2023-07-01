@@ -1,13 +1,12 @@
 {
-    "videos": [
-        {"id":"1",
+"videos": [
+ {"id":"1",
 "title":"عنوان تجربة",
 "hlsURL":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/VolkswagenGTIReview.mp4",
 "fullURL":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/VolkswagenGTIReview.mp4",
 "description":"لا تعاليق",
 "publishedAt":5,
- "author":"تحت الإنجاز"
-
+"author":"تحت الإنجاز"
         }
     ]
 }
