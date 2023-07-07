@@ -3,18 +3,18 @@
     {
       "status": "23",
       "app_new_version": "23",
-      "app_redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.vone",
+      "app_redirect_url": "https://play.google.com/store/apps/details?id=absdev.com.vpwld",
       "app_update_desc": "حمله الآن من منصة جوجل بلاي",
       "app_update_status": "false",
       "cancel_update_status": "true",
-      "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.staysi"
+      "redirect_url": "https://play.google.com/store/apps/details?id=absdev.com.vpwld"
     }
   ],
   "settings": [
     {
       "fcm_notification_topic": "absdev_vpwld_topic",
       "onesignal_app_id": "03acb109-36b0-4ef8-919d-ff4512c31dde",
-      "privacy_policy_url": "https://privacydevwh.blogspot.com/2021/12/privacy-policy.html"
+      "privacy_policy_url": "https://absdevpv.blogspot.com/p/privacy-policy.html"
     }
   ],
   "notification": [
