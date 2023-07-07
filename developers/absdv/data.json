@@ -13,14 +13,14 @@
   "settings": [
     {
       "fcm_notification_topic": "absdev_vpwld_topic",
-      "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed",
+      "onesignal_app_id": "82b779e2-bbaf-4f44-b876-f8b8f11b1fe2",
       "privacy_policy_url": "https://absdevpv.blogspot.com/p/privacy-policy.html"
     }
   ],
   "notification": [
     {
       "fcm_notification_topic": "absdev_vpwld_topic",
-      "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed"
+      "onesignal_app_id": "82b779e2-bbaf-4f44-b876-f8b8f11b1fe2"
     }
   ],
   "ads": [
