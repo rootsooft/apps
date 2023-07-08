@@ -20,7 +20,7 @@
   "notification": [
     {
       "fcm_notification_topic": "absdev_vpwld_topic",
-      "onesignal_app_id": "bf54da47-294e-4bd7-adc6-d6feeb2ff815"
+      "onesignal_app_id": "03acb109-36b0-4ef8-919d-ff4512c31dde"
     }
   ],
   "ads": [
