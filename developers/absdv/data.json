@@ -25,8 +25,8 @@
   ],
   "ads": [
     {
-      "ad_status": "on",
-      "ad_gdpr_status": "on",
+      "ad_status": "off",
+      "ad_gdpr_status": "off",
       "big_ad_status": "off",
       "inter_status": "off",
       "admob_app_open_status": "off",
