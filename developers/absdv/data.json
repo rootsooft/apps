@@ -27,6 +27,7 @@
     {
       "ad_status": "on",
       "ad_gdpr_status": "on",
+      "ad_banner_status": "on",
       "big_ad_status": "good",
       "inter_status": "good",
       "admob_app_open_status": "good",
