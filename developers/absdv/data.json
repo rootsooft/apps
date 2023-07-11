@@ -25,10 +25,10 @@
   ],
   "ads": [
     {
-      "ad_status": "on",
-      "ad_gdpr_status": "on",
+      "ad_status": "good",
+      "ad_gdpr_status": "good",
       "ad_banner_status": "good",
-      "ad_native_status": "off",
+      "ad_native_status": "good",
       "big_ad_status": "good",
       "inter_status": "good",
       "admob_app_open_status": "good",
