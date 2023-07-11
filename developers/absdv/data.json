@@ -29,7 +29,7 @@
       "ad_gdpr_status": "on",
       "big_ad_status": "good",
       "inter_ad_status": "banner",
-      "banner_ad_status": "on",
+      "banner_ad_status": "native",
       "native_ad_banner_status": "inter",
       "admob_app_ad_open_status": "no work",
       "ad_network": "admob",
