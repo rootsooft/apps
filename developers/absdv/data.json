@@ -25,13 +25,12 @@
   ],
   "ads": [
     {
-      "ad_status": "good",
+      "ad_status": "on",
       "ad_gdpr_status": "good",
       "ad_banner_status": "good",
       "ad_native_status": "good",
       "big_ad_status": "good",
       "inter_status": "good",
-      "admob_app_open_status": "on",
       "ad_network": "admob",
       "admob_small_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_medium_banner": "ca-app-pub-3940256099942544/6300978111",
