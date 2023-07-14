@@ -3,30 +3,32 @@
     {
       "status": "23",
       "app_new_version": "23",
-      "app_redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.vone",
+      "app_redirect_url": "https://play.google.com/store/apps/details?id=chavd.com.absdev",
       "app_update_desc": "حمله الآن من منصة جوجل بلاي",
       "app_update_status": "false",
       "cancel_update_status": "true",
-      "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.staysi"
+      "redirect_url": "https://play.google.com/store/apps/details?id=chavd.com.absdev"
     }
   ],
   "settings": [
     {
-      "fcm_notification_topic": "blogger_stream_topic",
-      "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed",
-      "privacy_policy_url": "https://privacydevwh.blogspot.com/2021/12/privacy-policy.html"
+      "fcm_notification_topic": "absdev_vpwld_topic",
+      "onesignal_app_id": "f9ef7826-e744-4321-bafa-2067f41b7a02",
+      "privacy_policy_url": "https://absdevpv.blogspot.com/p/privacy-policy.html"
     }
   ],
   "notification": [
     {
-      "fcm_notification_topic": "blogger_stream_topic",
-      "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed"
+      "fcm_notification_topic": "absdev_vpwld_topic",
+      "onesignal_app_id": "f9ef7826-e744-4321-bafa-2067f41b7a02"
     }
   ],
   "ads": [
     {
       "ad_status": "on",
       "ad_gdpr_status": "on",
+      "ad_banner_status": "on",
+      "ad_native_status": "on",
       "big_ad_status": "on",
       "inter_status": "on",
       "ad_network": "admob",
@@ -34,8 +36,9 @@
       "admob_medium_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_inter": "ca-app-pub-3940256099942544/8691691433",
       "admob_native": "ca-app-pub-3940256099942544/2247696110",
-      "admob_publisher_id": "ca-app-pub-1778309717892354~8550062729",
-      "facebook_small_banner": "ca-app-pub-1778309717892354~8550062729",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "facebook_small_banner": "ca-app-pub-3940256099942544",
       "facebook_medium_banner": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_inter": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_native": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
