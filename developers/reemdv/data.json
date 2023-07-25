@@ -20,6 +20,7 @@
   "notification": [
     {
       "fcm_notification_topic": "absdev_vpwld_topic",
+      "video_online_status": "xx",
       "onesignal_app_id": "f9ef7826-e744-4321-bafa-2067f41b7a02"
     }
   ],
@@ -29,7 +30,6 @@
       "ad_gdpr_status": "on",
       "ad_banner_status": "on",
       "ad_native_status": "xx",
-      "video_online_status": "xx",
       "big_ad_status": "on",
       "inter_status": "on",
       "ad_network": "admob",
