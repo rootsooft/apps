@@ -29,7 +29,6 @@
       "ad_gdpr_status": "on",
       "ad_banner_status": "on",
       "ad_native_status": "on",
-      "online_status": "off",
       "big_ad_status": "on",
       "inter_status": "on",
       "ad_network": "admob",
@@ -51,6 +50,7 @@
       "unity_game_id": "4613148",
       "banner_unity_id": "0",
       "interstitial_unity_id": "0",
+      "vd_status": "off",
       "inter_clicks":2
     }
   ]
