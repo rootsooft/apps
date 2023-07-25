@@ -30,7 +30,7 @@
       "ad_gdpr_status": "on",
       "ad_banner_status": "on",
       "ad_native_status": "off",
-      "video_online_status": "on",
+      "online_status": "on",
       "big_ad_status": "on",
       "inter_status": "on",
       "ad_network": "admob",
