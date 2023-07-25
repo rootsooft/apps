@@ -20,7 +20,6 @@
   "notification": [
     {
       "fcm_notification_topic": "absdev_vpwld_topic",
-      "video_online_status": "xx",
       "onesignal_app_id": "f9ef7826-e744-4321-bafa-2067f41b7a02"
     }
   ],
