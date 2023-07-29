@@ -3,23 +3,23 @@
     {
       "status": "24",
       "app_new_version": "24",
-      "app_redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.vone",
+      "app_redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.vtwo",
       "app_update_desc": "حمله الآن من منصة جوجل بلاي",
       "app_update_status": "false",
       "cancel_update_status": "true",
-      "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.vone"
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.vtwo"
     }
   ],
   "settings": [
     {
-      "fcm_notification_topic": "absdev_vpwld_topic",
+      "fcm_notification_topic": "reemdev_vtwo_topic",
       "onesignal_app_id": "9aad06b7-af05-402f-813b-36411df8a6cc",
       "privacy_policy_url": "https://absdevpv.blogspot.com/p/privacy-policy.html"
     }
   ],
   "notification": [
     {
-      "fcm_notification_topic": "absdev_vpwld_topic",
+      "fcm_notification_topic": "reemdev_vtwo_topic",
       "onesignal_app_id": "9aad06b7-af05-402f-813b-36411df8a6cc"
     }
   ],
@@ -32,13 +32,13 @@
       "big_ad_status": "on",
       "inter_status": "on",
       "ad_network": "admob",
-      "admob_small_banner": "ca-app-pub-9760311877159894/4444466601",
-      "admob_medium_banner": "ca-app-pub-9760311877159894/4444466601",
-      "admob_inter": "ca-app-pub-9760311877159894/7238699642",
-      "admob_native": "ca-app-pub-9760311877159894/3075544611",
+      "admob_small_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_medium_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/8691691433",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
-      "admob_app_open_unit_id": "ca-app-pub-9760311877159894/5239222261",
-      "facebook_small_banner": "ca-app-pub-9760311877159894/7238699642",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "facebook_small_banner": "ca-app-pub-3940256099942544",
       "facebook_medium_banner": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_inter": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_native": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
