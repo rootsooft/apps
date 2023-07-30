@@ -29,7 +29,7 @@
       "ad_gdpr_status": "on",
       "ad_banner_status": "on",
       "ad_native_status": "on",
-      "big_ad_status": "off",
+      "big_ad_status": "on",
       "inter_status": "on",
       "ad_network": "admob",
       "admob_small_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -50,7 +50,7 @@
       "unity_game_id": "4613148",
       "banner_unity_id": "0",
       "interstitial_unity_id": "0",
-      "vd_status": "on",
+      "vd_status": "off",
       "inter_clicks":2
     }
   ]
