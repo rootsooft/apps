@@ -3,18 +3,18 @@
     {
       "status": "23",
       "app_new_version": "23",
-      "app_redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.vone",
+      "app_redirect_url": "https://play.google.com/store/apps/details?id=chafaa.com.oumouma",
       "app_update_desc": "حمله الآن من منصة جوجل بلاي",
       "app_update_status": "false",
       "cancel_update_status": "true",
-      "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.staysi"
+      "redirect_url": "https://play.google.com/store/apps/details?id=chafaa.com.oumouma"
     }
   ],
   "settings": [
     {
       "fcm_notification_topic": "blogger_stream_topic",
       "onesignal_app_id": "b952198b-bec5-455a-878c-baeb22042fed",
-      "privacy_policy_url": "https://privacydevwh.blogspot.com/2021/12/privacy-policy.html"
+      "privacy_policy_url": "https://oumoumadev.blogspot.com/2020/02/privacy-policy.html"
     }
   ],
   "notification": [
@@ -34,8 +34,8 @@
       "admob_medium_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_inter": "ca-app-pub-3940256099942544/8691691433",
       "admob_native": "ca-app-pub-3940256099942544/2247696110",
-      "admob_publisher_id": "ca-app-pub-1778309717892354~8550062729",
-      "facebook_small_banner": "ca-app-pub-1778309717892354~8550062729",
+      "admob_publisher_id": "ca-app-pub-3940256099942544~8550062729",
+      "facebook_small_banner": "ca-app-pub-3940256099942544~8550062729",
       "facebook_medium_banner": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_inter": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_native": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -47,7 +47,8 @@
       "unity_game_id": "4613148",
       "banner_unity_id": "0",
       "interstitial_unity_id": "0",
-      "inter_clicks": 3
+      "vd_status": "on",
+      "inter_clicks":2
     }
   ]
 }
