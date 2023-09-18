@@ -26,8 +26,8 @@
   "ads": [
     {
       "ad_status": "on",
-      "ad_type": "applovin",
-      "vd_status": "off",
+      "ad_type": "admob",
+      "vd_status": "on",
       "ad_gdpr_status": "on",
       "big_ad_status": "on",
       "ad_banner_status": "on",
