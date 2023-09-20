@@ -27,7 +27,7 @@
     {
       "ad_status": "off",
       "ad_type": "admob",
-      "vd_status": "on",
+      "vd_status": "off",
       "ad_gdpr_status": "on",
       "big_ad_status": "on",
       "ad_banner_status": "on",
