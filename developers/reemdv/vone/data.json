@@ -14,7 +14,7 @@
     {
       "fcm_notification_topic": "reemdev_vone_topic",
       "onesignal_app_id": "9aad06b7-af05-402f-813b-36411df8a6cc",
-      "privacy_policy_url": "https://absdevpv.blogspot.com/p/privacy-policy.html"
+      "privacy_policy_url": "https://privacydevwh.blogspot.com/2021/12/privacy-policy.html"
     }
   ],
   "notification": [
@@ -26,32 +26,25 @@
   "ads": [
     {
       "ad_status": "on",
-      "ad_gdpr_status": "on",
-      "ad_banner_status": "on",
-      "ad_native_status": "on",
-      "big_ad_status": "on",
-      "inter_status": "on",
-      "ad_network": "admob",
-      "admob_small_banner": "ca-app-pub-9760311877159894/4444466601",
-      "admob_medium_banner": "ca-app-pub-9760311877159894/4444466601",
-      "admob_inter": "ca-app-pub-9760311877159894/7238699642",
-      "admob_native": "ca-app-pub-9760311877159894/3075544611",
-      "admob_publisher_id": "ca-app-pub-9760311877159894~4557487296",
-      "admob_app_open_unit_id": "ca-app-pub-9760311877159894/5239222261",
-      "facebook_small_banner": "ca-app-pub-9760311877159894/7238699642",
-      "facebook_medium_banner": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook_inter": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook_native": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "applovin_small_banner": "c5fa87d1dfd51b4d",
-      "applovin_medium_banner": "c5fa87d1dfd51b4d",
-      "applovin_inter": "781dbc69cc014a5e",
-      "applovin_native": "80d0709565e1129c",
-      "startapp_app_id": "204425496",
-      "unity_game_id": "4613148",
-      "banner_unity_id": "0",
-      "interstitial_unity_id": "0",
+      "ad_type": "admob",
       "vd_status": "on",
-      "inter_clicks":2
+      "ad_gdpr_status": "on",
+      "big_ad_status": "on",
+      "ad_banner_status": "on",
+      "inter_status": "on",
+      "ad_native_status": "on",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "admob_small_banner": "ca-app-pub-3940256099942544/9214589741",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "startapp_app_id": "204425496",
+      "applovin_banner_unit_id": "80d0709565e1129c",
+      "applovin_interstitial_unit_id": "781dbc69cc014a5e",
+      "applovin_medium_banner": "ca-app-pub-3940256099942544/6300978111",
+      "applovin_native": "80d0709565e1129c",
+      "interstitial_ad_interval": 2
     }
   ]
 }
