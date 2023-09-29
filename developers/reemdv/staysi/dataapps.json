@@ -12,14 +12,14 @@
   ],
   "settings": [
     {
-      "fcm_notification_topic": "reemdev_vtwo_topic",
+      "fcm_notification_topic": "reemdev_staysi_topic",
       "onesignal_app_id": "9aad06b7-af05-402f-813b-36411df8a6cc",
       "privacy_policy_url": "https://absdevpv.blogspot.com/p/privacy-policy.html"
     }
   ],
   "notification": [
     {
-      "fcm_notification_topic": "reemdev_vtwo_topic",
+      "fcm_notification_topic": "reemdev_staysi_topic",
       "onesignal_app_id": "9aad06b7-af05-402f-813b-36411df8a6cc"
     }
   ],
