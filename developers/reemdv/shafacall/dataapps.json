@@ -40,11 +40,11 @@
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_open_unit_id": "",
-      "startapp_app_id": "204425496",
-      "applovin_banner_unit_id": "80d0709565e1129c",
-      "applovin_interstitial_unit_id": "781dbc69cc014a5e",
-      "applovin_medium_banner": "ca-app-pub-3940256099942544/6300978111",
-      "applovin_native": "80d0709565e1129c",
+      "startapp_app_id": "",
+      "applovin_banner_unit_id": "",
+      "applovin_interstitial_unit_id": "",
+      "applovin_medium_banner": "",
+      "applovin_native": "",
       "interstitial_ad_interval": 2
     }
   ]
