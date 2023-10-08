@@ -38,13 +38,13 @@
       "admob_big_banner": "",
       "admob_banner_unit_id": "ca-app-pub-9760311877159894/3870469425",
       "admob_interstitial_unit_id": "ca-app-pub-9760311877159894/8931224418",
-      "admob_native_unit_id": "ca-app-pub-9760311877159894/4991979406",
+      "admob_native_unit_id": "",
       "admob_app_open_unit_id": "",
-      "startapp_app_id": "204425496",
-      "applovin_banner_unit_id": "80d0709565e1129c",
-      "applovin_interstitial_unit_id": "781dbc69cc014a5e",
-      "applovin_medium_banner": "781dbc69cc014a5e",
-      "applovin_native": "80d0709565e1129c",
+      "startapp_app_id": "",
+      "applovin_banner_unit_id": "",
+      "applovin_interstitial_unit_id": "",
+      "applovin_medium_banner": "",
+      "applovin_native": "",
       "interstitial_ad_interval": 2
     }
   ]
