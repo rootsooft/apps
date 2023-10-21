@@ -1,16 +1,8 @@
 {
-  "radio": [
+  "video": [
     {
-      "radio_name": "Your Single Radio",
-      "radio_genre": "World",
-      "radio_url": "http://46.252.154.133:8080",
-      "radio_image_url": "https://i.ibb.co/RQqggB6/radio-image.png",
-      "background_image_url": "https://img.freepik.com/670147-1279.jpg",
-	  "blur_radio_background": "true",
-      "song_metadata": "true",
-      "image_album_art": "true",
-	  "image_album_art_dynamic_background": "true",
-	  "auto_play": "false"
+      "vd_status": "off",
+      "auto_play": "false"
     }
   ],
   "settings": [
