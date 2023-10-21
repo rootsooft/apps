@@ -43,28 +43,6 @@
       "ironsource_banner_placement_name": "DefaultBanner",
       "ironsource_interstitial_placement_name": "DefaultInterstitial",
       "interstitial_ad_interval": 2
-    }
-  ],
-  "socials": [
-    {
-      "social_name": "Website",
-      "social_icon": "https://i.ibb.co/mtBqztD/globe.png",
-      "social_url": "http://www.electro-khalid.com/"
-    },
-    {
-      "social_name": "Facebook",
-      "social_icon": "https://i.ibb.co/hfjH7LL/facebook.png",
-      "social_url": "https://www.facebook.com/solodroid.net"
-    },
-    {
-      "social_name": "Twitter",
-      "social_icon": "https://i.ibb.co/dDZYx1P/twitter.png",
-      "social_url": "https://twitter.com/solodroiddev"
-    },
-    {
-      "social_name": "Instagram",
-      "social_icon": "https://i.ibb.co/82ykbnp/instagram.png",
-      "social_url": "https://www.instagram.com/solodroid.developer"
-    }
+  }
   ]
 }
