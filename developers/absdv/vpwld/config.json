@@ -1,7 +1,7 @@
 {
   "video": [
     {
-      "vd_status": "on",
+      "video_status": "on",
       "auto_play": "false"
     }
   ],
