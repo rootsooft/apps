@@ -25,7 +25,7 @@
   ],
   "ads": [
     {
-      "ad_status": "off",
+      "ad_status": "on",
       "ad_gdpr_status": "on",
       "ad_banner_status": "on",
       "ad_native_status": "off",
@@ -33,7 +33,7 @@
       "inter_status": "off",
       "ad_network": "admob",
       "admob_small_banner": "ca-app-pub-1778309717892354/1180477508",
-      "admob_medium_banner": "",
+      "admob_medium_banner": "ca-app-pub-1778309717892354/1180477508",
       "admob_big_banner": "ca-app-pub-1778309717892354/1180477508",
       "admob_inter": "ca-app-pub-1778309717892354/1727272410",
       "admob_native": "ca-app-pub-1778309717892354/7922798066",
