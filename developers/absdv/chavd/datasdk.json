@@ -1,7 +1,7 @@
 {
   "video": [
     {
-      "video_status": "0",
+      "video_status": "1",
       "auto_play": "false"
     }
   ],
@@ -18,7 +18,7 @@
       "ad_status": "1",
       "ad_type": "admob",
       "backup_ads": "none",
-      "video_status": "0",
+      "video_status": "1",
       "admob_publisher_id": "ca-app-pub-1778309717892354",
       "admob_banner_unit_id": "ca-app-pub-1778309717892354/8934923069",
       "admob_interstitial_unit_id": "ca-app-pub-1778309717892354/3407812956",
