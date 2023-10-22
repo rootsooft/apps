@@ -1,13 +1,13 @@
 {
   "video": [
     {
-      "video_status": "0",
+      "video_status": "1",
       "auto_play": "false"
     }
   ],
   "settings": [
     {
-      "app_status": "0",
+      "app_status": "1",
       "privacy_policy_url": "https://absdevpv.blogspot.com/p/privacy-policy.html",
       "more_apps_url": "https://play.google.com/store/apps/developer?id=ABSDEV",
       "redirect_url": "https://play.google.com/store/apps/details?id=absdev.com.vpwld"
