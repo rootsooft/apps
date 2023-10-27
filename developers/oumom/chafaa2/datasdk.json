@@ -8,7 +8,7 @@
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://oumoumadev.blogspot.com/2020/02/privacy-policy.html",
+      "privacy_policy_url": "https://absdevpv.blogspot.com/p/privacy-policy.html",
       "more_apps_url": "https://play.google.com/store/apps/developer?id=Oumouma",
       "redirect_url": "https://play.google.com/store/apps/details?id=chafaa2.com.oumouma"
     }
@@ -18,11 +18,16 @@
       "ad_status": "1",
       "ad_type": "admob",
       "backup_ads": "none",
-      "video_status": "1",
+      "video_status": "0",
+      "nativ_star_status": "0",
+      "nativ_home_status": "0",
+      "banner_star_status": "0",
+      "banner_home_status": "0",
+      "banner_about_status": "0",
       "admob_publisher_id": "ca-app-pub-5991888046347578",
       "admob_banner_unit_id": "ca-app-pub-5991888046347578/4417496463",
       "admob_interstitial_unit_id": "ca-app-pub-5991888046347578/3664733711",
-      "admob_native_unit_id": "",
+      "admob_native_unit_id": "ca-app-pub-5991888046347578/8883355081",
       "admob_app_open_ad_unit_id": "",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
