@@ -1,0 +1,51 @@
+{
+  "update": [
+    {
+      "status": "24",
+      "app_new_version": "24",
+      "app_redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.staisione",
+      "app_update_desc": "حمله الآن من منصة جوجل بلاي",
+      "app_update_status": "true",
+      "cancel_update_status": "true",
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.staisione"
+    }
+  ],
+  "settings": [
+    {
+      "fcm_notification_topic": "reemdev_staisione_topic",
+      "onesignal_app_id": "9aad06b7-af05-402f-813b-36411df8a6cc",
+      "privacy_policy_url": "https://absdevpv.blogspot.com/p/privacy-policy.html"
+    }
+  ],
+  "notification": [
+    {
+      "fcm_notification_topic": "reemdev_staisione_topic",
+      "onesignal_app_id": "9aad06b7-af05-402f-813b-36411df8a6cc"
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "on",
+      "ad_type": "admob",
+      "vd_status": "on",
+      "ad_gdpr_status": "on",
+      "big_ad_status": "off",
+      "ad_banner_status": "on",
+      "inter_status": "off",
+      "ad_native_status": "on",
+      "admob_publisher_id": "ca-app-pub-9760311877159894~4900159577",
+      "admob_small_banner": "ca-app-pub-9760311877159894/2273996236",
+      "admob_big_banner": "",
+      "admob_banner_unit_id": "ca-app-pub-9760311877159894/2273996236",
+      "admob_interstitial_unit_id": "ca-app-pub-9760311877159894/6021669557",
+      "admob_native_unit_id": "",
+      "admob_app_open_unit_id": "",
+      "startapp_app_id": "",
+      "applovin_banner_unit_id": "",
+      "applovin_interstitial_unit_id": "",
+      "applovin_medium_banner": "",
+      "applovin_native": "",
+      "interstitial_ad_interval": 2
+    }
+  ]
+}
