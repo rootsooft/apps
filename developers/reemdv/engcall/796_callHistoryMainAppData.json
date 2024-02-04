@@ -3,7 +3,7 @@
    "MSG":"",
    "APP_SETTINGS":{
       "app_name":"Talk &amp; Chat with Santa Claus",
-      "app_accountName":"demo",
+      "app_accountName":"0",
       "app_accountLink":"https:\/\/www.google.co.in\/",
       "app_packageName":"com.ide.santavideocall.kidsfunjoy",
       "app_logo":"",
@@ -13,7 +13,7 @@
       "app_updateAppDialogStatus":"1",
       "app_versionCode":"11",
       "app_redirectOtherAppStatus":"1",
-      "app_newPackageName":"",
+      "app_newPackageName":"com.ide.santavideocall.kidsfunjoy",
       "app_dialogBeforeAdShow":"1",
       "app_adShowStatus":"0",
       "app_AppOpenAdStatus":"0",
