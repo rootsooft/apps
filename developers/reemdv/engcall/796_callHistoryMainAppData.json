@@ -1,5 +1,5 @@
 {
-   "STATUS":false,
+   "STATUS":true,
    "MSG":"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
    "APP_SETTINGS":{
       "app_name":"Talk &amp; Chat with Santa Claus",
@@ -7,7 +7,7 @@
       "app_accountLink":"https:\/\/www.google.co.in\/",
       "app_packageName":"com.ide.santavideocall.kidsfunjoy",
       "app_logo":"",
-      "app_status":"1",
+      "app_status":"0",
       "app_privacyPolicyLink":"https:\/\/www.google.co.in\/",
       "app_needInternet":"1",
       "app_updateAppDialogStatus":"1",
