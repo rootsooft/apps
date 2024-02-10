@@ -1,11 +1,9 @@
 {
-   "STATUS":true,
-   "MSG":"",
-   "APP_SETTINGS":{
+   "data":{
       "app_name":"Talk &amp; Chat with Santa Claus",
       "app_accountName":"demo",
       "app_accountLink":"https:\/\/www.google.co.in\/",
-      "app_packageName":"com.ide.santavideocall.kidsfunjoy",
+      "packagename":"xmas.callwithsanta.videocallingsanta",
       "app_logo":"",
       "app_status":"1",
       "app_privacyPolicyLink":"https:\/\/www.google.co.in\/",
@@ -17,11 +15,11 @@
       "app_dialogBeforeAdShow":"1",
       "app_adShowStatus":"1",
       "app_AppOpenAdStatus":"1",
-      "app_howShowAd":"1",
-      "app_adPlatformSequence":"1",
-      "app_alernateAdShow":"",
-      "app_howShowAdInterstitial":"1",
-      "app_adPlatformSequenceInterstitial":"",
+      "checkad_acceptcall_inter":"1",
+      "check_appopenad":"1",
+      "taptostart":"1",
+      "check_qureka_interval":"1",
+      "checkad_videocallbackpress_inter":"1",
       "app_alernateAdShowInterstitial":"1",
       "app_howShowAdNative":"1",
       "app_adPlatformSequenceNative":"",
@@ -34,23 +32,19 @@
       "app_recentAppOpenAdStatus":"1",
       "appNativeAdsCount":"5",
       "rewardedVideoClickCount":"3",
-      "appGamePopupLink":"https:\/\/www.youtube.com\/"
-   },
-   "PLACEMENT":{
-      "Admob":{
          "ad_showAdStatus":1,
-         "AppID":"ca-app-pub-3940256099942544~3347511713",
-         "Banner1":"ca-app-pub-3940256099942544\/6300978111",
+         "admob_appid":"ca-app-pub-3940256099942544~3347511713",
+         "admob_bannerid":"ca-app-pub-3940256099942544\/6300978111",
          "Banner2":"ca-app-pub-3940256099942544\/6300978111",
          "Banner3":"ca-app-pub-3940256099942544\/6300978111",
          "Banner4":"ca-app-pub-3940256099942544\/6300978111",
          "Banner5":"ca-app-pub-3940256099942544\/6300978111",
-         "Interstitial1":"ca-app-pub-3940256099942544\/1033173712",
+         "admob_interid":"ca-app-pub-3940256099942544\/1033173712",
          "Interstitial2":"ca-app-pub-3940256099942544\/1033173712",
          "Interstitial3":"ca-app-pub-3940256099942544\/1033173712",
          "Interstitial4":"ca-app-pub-3940256099942544\/1033173712",
          "Interstitial5":"ca-app-pub-3940256099942544\/1033173712",
-         "Native1":"ca-app-pub-3940256099942544\/2247696110",
+         "admob_nativeid":"ca-app-pub-3940256099942544\/2247696110",
          "Native2":"ca-app-pub-3940256099942544\/2247696110",
          "Native3":"ca-app-pub-3940256099942544\/2247696110",
          "Native4":"ca-app-pub-3940256099942544\/2247696110",
@@ -60,7 +54,7 @@
          "RewardedVideo3":"ca-app-pub-3940256099942544\/5224354917",
          "RewardedVideo4":"ca-app-pub-3940256099942544\/5224354917",
          "RewardedVideo5":"ca-app-pub-3940256099942544\/5224354917",
-         "AppOpen":"ca-app-pub-3940256099942544\/3419835294"
+         "appopenad_id":"ca-app-pub-3940256099942544\/3419835294"
       },
       "Facebookaudiencenetwork":{
          "ad_showAdStatus":0,
