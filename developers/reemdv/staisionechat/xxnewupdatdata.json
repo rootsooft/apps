@@ -11,12 +11,11 @@
       "privacy_policy_url": "https://privacydevwh.blogspot.com/2021/12/privacy-policy.html",
       "more_apps_url": "https://play.google.com/store/apps/developer?id=REEMDEV",
       "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.staisione"
-      "ads_perso": "https://androidfondo.com/princesss/promotApp.json"
     }
   ],
   "ads": [
     {
-      "ad_status": "0",
+      "ad_status": "1",
       "ad_type": "admob",
       "backup_ads": "none",
       "video_status": "1",
