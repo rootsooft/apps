@@ -50,11 +50,11 @@
       ]
     },
     {
-      "name"        : "Chat with Nastya",
-      "packageName" : "com.sandraCalls.LikeNastya.LiveChatCall.nastya",
-      "icon"        : "https://play-lh.googleusercontent.com/COGsQeGMADzIDtb3TpSuXWmarA0kBn2uRETGsSy_HYA7yoZkdwYegfVaWHBt8k3eVHU=w240-h480",
-      "preview"     : "https://lh3.googleusercontent.com/5RQIt4yP6MHEWAW5Byupr7VckvB9nFFemHt1o_ZKwNHctIr-hJkR8sXHQx51UJacppg=w416-h235",
-      "shortDescription": "Make call 📞 to nastya",
+      "name"        : "لعبة شفا و سوسو تتصل بك",
+      "packageName" : "com.reemdev.shafacall",
+      "icon"        : "https://play-lh.googleusercontent.com/e43X2QB9oP-TrLYppW5blsQDRNUBJMUVfooEEjzzkAKLFrh2ZWQcdIMC_RELJNKdLds=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/IKkLHDVll_gXr8AvjntyixhtsGRtZIn3ddWRHyGyZjYFI2ei-RLk3FPDrNo4EXWAKKw=w416-h235-rw",
+      "shortDescription": "إتصل بشفا مكالمة ودردشة 📞",
       "screenShot"  : [
         "",
         "",
@@ -70,8 +70,8 @@
       "icon"         :"https://yt3.googleusercontent.com/3eUCMW9bm58QSodERr7fGL5TPb2rQ3Z6DGluB_1Spg3UD-GBToYKueBvuuxRya27XX6DueFHpQ=s176-c-k-c0x00ffffff-no-rj",
       "preview"      : "https://i.ytimg.com/vi_webp/L90nShCP7PU/maxresdefault.webp",
       "preview-small": "https://i.ytimg.com/vi_webp/L90nShCP7PU/maxresdefault.webp",
-      "watch"        : "https://youtu.be/_ghlgrWd2rg",
-      "channel"      : "https://youtu.be/_ghlgrWd2rg",
+      "watch"        : "https://www.youtube.com/",
+      "channel"      : "https://www.youtube.com/",
       "Description"  : "We loved making challenge \n between your characters into popular games"
     }
   ]
