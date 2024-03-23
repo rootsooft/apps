@@ -8,7 +8,7 @@
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
+      "privacy_policy_url": "https://sites.google.com/view/reemdev",
       "more_apps_url": "https://play.google.com/store/apps/developer?id=REEMDEV",
       "redirect_url": "https://play.google.com/store/apps/details?id=com.reemdev.staisione"
     }
@@ -24,7 +24,6 @@
       "banner_star_status": "0",
       "banner_home_status": "0",
       "banner_about_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
       "admob_publisher_id": "xxxca-app-pub-9760311877159894",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
