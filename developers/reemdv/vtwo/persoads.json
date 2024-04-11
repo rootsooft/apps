@@ -36,7 +36,19 @@
         ""
       ]
     },
-    
+  {
+      "name"        : "مقاطع فيديو قصي وليد الغابر
+",
+      "packageName" : "com.reemdev.staisione",
+      "icon"        : "https://play-lh.googleusercontent.com/qzKRwOpjQ8n6gRWRzdRi8Er6VzGFITSoVKb4bzG7cCoGWeF0ONEYqBH8-JC0cbgl6K4R=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/8hEUKFq4Nq11H0xBsvnGHgeM6RZlKfRIC6O2Y5bYuSib1VTEmrt2n8YAxI5b2R02kylE=w416-h235-rw",
+      "shortDescription": "أجمل اللقطات مع ستايسي 👋",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
     {
       "name"        : "مقاطع فيديو ومقالب شفا بدون نت",
       "packageName" : "com.reemdev.vone",
