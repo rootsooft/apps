@@ -36,7 +36,18 @@
         ""
       ]
     },
-    
+  {
+      "name"        : "مقاطع فيديو قصي وليد الغابر",
+      "packageName" : "com.reemdev.vtwo",
+      "icon"        : "https://play-lh.googleusercontent.com/qzKRwOpjQ8n6gRWRzdRi8Er6VzGFITSoVKb4bzG7cCoGWeF0ONEYqBH8-JC0cbgl6K4R=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/Iop84yW235jyb1lXr4Qac9WqVP2-1CM-eSElyI_ahEMEm3evLgZGR8Ur8QOiDy2TIQA=w416-h235-rw",
+      "shortDescription": "أجمل اللقطات مع قصي ووليد الغابر 👋",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
     {
       "name"        : "مقاطع فيديو ومقالب شفا بدون نت",
       "packageName" : "com.reemdev.vone",
