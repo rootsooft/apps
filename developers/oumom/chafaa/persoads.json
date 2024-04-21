@@ -13,11 +13,11 @@
       ]
     },
      {
-      "name"        : "مقاطع ستايسي فيديو بدون نت",
-      "packageName" : "com.reemdev.staysi",
-      "icon"        : "https://play-lh.googleusercontent.com/MT2GO5pMcRRNWI5FiEUwXXYx8NLT9r3VGgogGVYRtvV2WuzgMQz-M9TdZicrac7L4mI=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/oksMLU2tYEfMaoG9GAi3fttFckyWKsyLP7Orib_ud66JZzfkIySRaH8jP2q9fwdiB27I=w416-h235-rw",
-      "shortDescription": "شاهد أروع 🤩  مقاطع ستايسي",
+      "name"        : "مقاطع فيديو ديانا روما بدون نت",
+      "packageName" : "dianaroma.com.oumouma",
+      "icon"        : "https://play-lh.googleusercontent.com/MgJDtXv4jv6vPEO9Hp8HbhWs4YoKnGJe7hpOxSWOz9I9rMWPx_SrN6MhQcC1ERhTXQ=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/hxQH1UQPrdXXPRMlE84TUkZU0qd_9fdc_qhYX-o1d13DUkPpQhVxF_E0Ob0Mo4HORDqR=w416-h235-rw",
+      "shortDescription":  "شاهد أروع 🤩  مقاطع فيديو ديانا روما بدون نت",
       "screenShot"  : [
         "",
         "",
@@ -25,11 +25,11 @@
       ]
     },
      { 
-      "name"        : "لعبة ديانا وروما مكالمة وهمية",
-      "packageName" : "com.reemdev.dinacall",
-      "icon"        : "https://play-lh.googleusercontent.com/X-50OlClxWV-NhSDxN0YidhHnhL8RnUujlq_zh7EMZanQlrq7uwTPSR2mJ-AyUfX_A=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/yHJx3s6Zv5598KhAWIoso4YSG_TDUi9K-6epsuYPTKgavJcWjnsFVeN2hU-SNX2Gzw=w416-h235-rw",
-      "shortDescription": "دردشة مع ديانا وروما 📞",
+      "name"        : "شفا و سوسو فيديو بدون نت",
+      "packageName" : "chafaa2.com.oumouma",
+      "icon"        : "https://play-lh.googleusercontent.com/vq7VMWKOAerT8cAClyCNeBMJ-9xty_3voKH4-E8AdyVUWSijpf2FLD4mU5qWeFq24_Lp=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/_ZDG8IF5aVsK7Woenepz7xxiS42A5CTHGB6phynNUvm1mlXRHiKrnmghbWSfj23pdWE=w416-h235-rw",
+      "shortDescription": "شفا و سوسو 📞",
       "screenShot"  : [
         "",
         "",
@@ -37,11 +37,11 @@
       ]
     },
     {
-      "name"        : "مقالب شفا و سوسو بدون نت",
-      "packageName" : "com.reemdev.three",
-      "icon"        : "https://play-lh.googleusercontent.com/Pwz6RBlwJkQDAcfDVer3aDt2lgVagzp2pfaVpudd9giX6q7X7YYCC16-p0bNnw3x9Qs=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/h9Q5XJIq6HibayqqSvnnuNetyRekA60v187wQrNVaKoI08ZxzClO3zv-iaDKnQs1xQA=w416-h235-rw",
-      "shortDescription": "أجمل اللقطات مع مقالب شفا و سوسو بدون نت 👋",
+      "name"        : "مقاطع فيديو ناستيا ستايسي",
+      "packageName" : "natsyastaysi.com.oumouma",
+      "icon"        : "https://play-lh.googleusercontent.com/7Cx_w_EZDoOWafkVVGsTdJL0UTAtsGt5tBovlZCYrjVz5Cprqv1Pyk9A2JQA0yJt-w=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/UYTPqGw2WPVsjbsNDsIlGciQqSOYAyYWy1EAfYvvEkA_D8M3RbhokGbFJp9tkiEUajI=w416-h235-rw",
+      "shortDescription": "أجمل اللقطات مع ناستيا ستايسي بدون نت 👋",
       "screenShot"  : [
         "",
         "",
@@ -49,55 +49,6 @@
       ]
     },
   {
-      "name"        : "مقاطع فيديو قصي وليد الغابر",
-      "packageName" : "com.reemdev.vtwo",
-      "icon"        : "https://play-lh.googleusercontent.com/qzKRwOpjQ8n6gRWRzdRi8Er6VzGFITSoVKb4bzG7cCoGWeF0ONEYqBH8-JC0cbgl6K4R=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/Iop84yW235jyb1lXr4Qac9WqVP2-1CM-eSElyI_ahEMEm3evLgZGR8Ur8QOiDy2TIQA=w416-h235-rw",
-      "shortDescription": "أجمل اللقطات مع قصي ووليد الغابر 👋",
-      "screenShot"  : [
-        "",
-        "",
-        ""
-      ]
-    },
-    {
-      "name"        : "مقاطع فيديو ومقالب شفا بدون نت",
-      "packageName" : "com.reemdev.vone",
-      "icon"        : "https://play-lh.googleusercontent.com/FQEXu7KMOrEDRpR-hco7CG_nFVaChBKl5SOJ5tFYa05FiMU2CQRN3bgSYBb3tAxRNLo=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/AhGGc5qP5yCBSRyq58PlHd9nx-nOH6vQtfCdxt3WfR4wC_pVvdDRKGB28Xbs57Fsm3o=w416-h235-rw",
-      "shortDescription": "طرائف شفا ❤️",
-      "screenShot"  : [
-        "",
-        "",
-        ""
-      ]
-    },
-    {
-      
-      "name"        : "ستايسي مقاطع فيديو بدون نت",
-      "packageName" : "com.reemdev.staisione",
-      "icon"        : "https://play-lh.googleusercontent.com/IlP2ghN86hW3T8lRhVbY9NGFQbGoOxBTjUCBCZX6kpMR6zbVzjzSWqPBeGRYLBqpmUCh=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/Q6N_K7GZl7ya5o4OAmqevNluQ5SQ4JdiUaHGdFDL7XPQItKAKzx3kVcprfv7J5XqKg=w416-h235-rw",
-      "shortDescription": "أجمل اللقطات مع ستايسي 👋",
-      "screenShot"  : [
-        "",
-        "",
-        ""
-      ]
-    },
-  {
-      "name"        : "لعبة شفا و سوسو تتصل بك",
-      "packageName" : "com.reemdev.shafacall",
-      "icon"        : "https://play-lh.googleusercontent.com/e43X2QB9oP-TrLYppW5blsQDRNUBJMUVfooEEjzzkAKLFrh2ZWQcdIMC_RELJNKdLds=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/IKkLHDVll_gXr8AvjntyixhtsGRtZIn3ddWRHyGyZjYFI2ei-RLk3FPDrNo4EXWAKKw=w416-h235-rw",
-      "shortDescription": "إتصل بشفا مكالمة ودردشة 📞",
-      "screenShot"  : [
-        "",
-        "",
-        ""
-      ]
-    }
-    
   ],
     
   "YoutubePromote": [
