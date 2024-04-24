@@ -1,0 +1,68 @@
+{
+    "AppsPromote": [
+    {
+      "name"        : "شفا وسوسو بدون نت",
+      "packageName" : "chafaa.com.oumouma",
+      "icon"        : "https://play-lh.googleusercontent.com/N-X8E5CQuMN2b8p0efjf1WlV7BqAXKoS5Y-RKtTp4ojzJUP1O4iCoeeudcvA65xA1oM=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/q32yraX6x_AZHi_aOtwxXYYZ1-YzJeUMnUVaaun1IqqFpesgxXabnwuwuoKGROuvS-s=w416-h235-rw",
+      "shortDescription": "شاهد أروع المقاطع 🤩",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+     {
+      "name"        : "مقاطع فيديو ديانا روما بدون نت",
+      "packageName" : "dianaroma.com.oumouma",
+      "icon"        : "https://play-lh.googleusercontent.com/MgJDtXv4jv6vPEO9Hp8HbhWs4YoKnGJe7hpOxSWOz9I9rMWPx_SrN6MhQcC1ERhTXQ=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/hxQH1UQPrdXXPRMlE84TUkZU0qd_9fdc_qhYX-o1d13DUkPpQhVxF_E0Ob0Mo4HORDqR=w416-h235-rw",
+      "shortDescription":  "شاهد أروع 🤩  مقاطع فيديو ديانا روما بدون نت",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+     { 
+      "name"        : "شفا و سوسو فيديو بدون نت",
+      "packageName" : "chafaa2.com.oumouma",
+      "icon"        : "https://play-lh.googleusercontent.com/vq7VMWKOAerT8cAClyCNeBMJ-9xty_3voKH4-E8AdyVUWSijpf2FLD4mU5qWeFq24_Lp=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/_ZDG8IF5aVsK7Woenepz7xxiS42A5CTHGB6phynNUvm1mlXRHiKrnmghbWSfj23pdWE=w416-h235-rw",
+      "shortDescription": "شفا و سوسو 📞",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "مقاطع فيديو ناستيا ستايسي",
+      "packageName" : "natsyastaysi.com.oumouma",
+      "icon"        : "https://play-lh.googleusercontent.com/7Cx_w_EZDoOWafkVVGsTdJL0UTAtsGt5tBovlZCYrjVz5Cprqv1Pyk9A2JQA0yJt-w=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/UYTPqGw2WPVsjbsNDsIlGciQqSOYAyYWy1EAfYvvEkA_D8M3RbhokGbFJp9tkiEUajI=w416-h235-rw",
+      "shortDescription": "أجمل اللقطات مع ناستيا ستايسي بدون نت 👋",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    }
+    
+  ],
+    
+    
+  "YoutubePromote": [
+    {
+      "title"        : "FUNNY CHALLENGE 🤩",
+      "icon"         :"https://yt3.googleusercontent.com/3eUCMW9bm58QSodERr7fGL5TPb2rQ3Z6DGluB_1Spg3UD-GBToYKueBvuuxRya27XX6DueFHpQ=s176-c-k-c0x00ffffff-no-rj",
+      "preview"      : "https://i.ytimg.com/vi_webp/L90nShCP7PU/maxresdefault.webp",
+      "preview-small": "https://i.ytimg.com/vi_webp/L90nShCP7PU/maxresdefault.webp",
+      "watch"        : "https://www.youtube.com/",
+      "channel"      : "https://www.youtube.com/",
+      "Description"  : "We loved making challenge \n between your characters into popular games"
+    }
+  ]
+  
+  
+}
