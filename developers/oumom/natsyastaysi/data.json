@@ -5,7 +5,7 @@
       "app_new_version": "24",
       "app_redirect_url": "https://play.google.com/store/apps/details?id=chafaa.com.oumouma",
       "app_update_desc": "حمله الآن من منصة جوجل بلاي",
-      "app_update_status": "false",
+      "app_update_status": "true",
       "cancel_update_status": "true",
       "redirect_url": "https://play.google.com/store/apps/details?id=chafaa.com.oumouma"
     }
@@ -25,7 +25,7 @@
   ],
   "ads": [
     {
-      "ad_status": "on",
+      "ad_status": "off",
       "ad_type": "admob",
       "vd_status": "on",
       "ad_gdpr_status": "on",
