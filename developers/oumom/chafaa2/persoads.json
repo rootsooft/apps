@@ -43,14 +43,24 @@
       "preview"     : "https://play-lh.googleusercontent.com/bz6dQ1SX4m8s_WgghyEUgrNx0bumE4M5N5V98OIUGWtkl8mY8HuVxzzmvpwksmX_Nx0=w416-h235-rw",
       "shortDescription": "أجمل اللقطات مع ناستيا ستايسي بدون نت 👋",
       "screenShot"  : [
+           "",
+        "",
+        ""
+      ]
+    },
+    {
+     "name"        : "Adley Fake Video Call & Chat",
+      "packageName" : "com.oumouma.adley",
+      "icon"        : "https://play-lh.googleusercontent.com/oT2tgJ-WTaskvh6BIPGalP2D0LCkY22qLFtAXuVK4rO5Bn2qkZS40qXK-K4aoMLRgLs=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/iVADdKMePl_uDSxDXLH0vGL-XkjNTCA4eIcvwx8lEWMkVZqTnC7cueqwLUg5aY276w=w416-h235-rw",
+      "shortDescription": "Make a fake phone call to prank friends . 📞",
+      "screenShot"  : [
         "",
         "",
         ""
       ]
     }
-    
   ],
-    
     
   "YoutubePromote": [
     {
