@@ -33,7 +33,7 @@
       "banner_live_status": "1",
       "banner_chat_status": "1",
       "banner_contact_status": "1",
-      "banner_acceptcall_status": "1",
+      "banner_acceptcall_status": "0",
       "banner_acceptvideo_status": "1",
       "banner_more_big_status": "1",
       "banner_reminder_big_status": "1",
