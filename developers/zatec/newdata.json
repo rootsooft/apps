@@ -9,7 +9,7 @@
     "fan_banner_id":"000",
     "fan_reward_id":"000",
     "fan_native_id":"000",
-    "interstitial_ad_interval":1,
+    "interstitial_ad_interval":3,
     "check_cpa_id":0,
     "url_cpa_id":"",
     "url_img_cpa_id":"",
