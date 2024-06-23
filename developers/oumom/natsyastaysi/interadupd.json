@@ -10,12 +10,12 @@
       "app_status": "1",
       "privacy_policy_url": "https://sites.google.com/view/oumouma",
       "more_apps_url": "https://play.google.com/store/apps/developer?id=Oumouma",
-      "redirect_url": "https://play.google.com/store/apps/details?id=com.oumouma.adley"
+      "redirect_url": "https://play.google.com/store/apps/details?id=natsyastaysi.com.oumouma"
     }
   ],
   "ads": [
     {
-      "ad_status": "1",
+      "ad_status": "0",
       "ad_type": "admob",
       "backup_ads": "none",
       "video_status": "1",
@@ -24,19 +24,11 @@
       "nativ_about_status": "0",
       "nativ_more_status": "0",
       "nativ_main_status": "0",
-      "native_reminder_status": "0",
-      "banner_reminder_status": "1",
       "banner_star_status": "1",
       "banner_home_status": "1",
       "banner_about_status": "1",
       "banner_more_status": "1",
-      "banner_live_status": "1",
-      "banner_chat_status": "0",
-      "banner_contact_status": "1",
-      "banner_acceptcall_status": "1",
-      "banner_acceptvideo_status": "1",
       "banner_more_big_status": "1",
-      "banner_reminder_big_status": "1",
       "list_more_status": "1",
       "banner_main_status": "1",
       "banner_player_status": "1",
@@ -44,16 +36,12 @@
       "banner_perso_star_status": "0",
       "banner_perso_about_status": "0",
       "banner_perso_main_status": "0",
-      "banner_perso_more_status": "1",
-      "banner_perso_reminder_status": "1",
-      "banner_perso_live_status": "0",
-      "banner_perso_chat_status": "1",
-      "banner_perso_login_status": "1",
+      "banner_perso_more_status": "0",
       "banner_perso_player_status": "0",
-      "admob_publisher_id": "ca-app-pub-5991888046347578~2892094679",
-      "admob_banner_unit_id": "ca-app-pub-5991888046347578/3397441416",
-      "admob_interstitial_unit_id": "ca-app-pub-5991888046347578/6023604752",
-      "admob_native_unit_id": "ca-app-pub-5991888046347578/2514754523",
+      "admob_publisher_id": "ca-app-pub-5991888046347578",
+      "admob_banner_unit_id": "ca-app-pub-5991888046347578/4824690577",
+      "admob_interstitial_unit_id": "ca-app-pub-5991888046347578/2317946739",
+      "admob_native_unit_id": "ca-app-pub-5991888046347578/6956528692",
       "admob_app_open_ad_unit_id": "",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
@@ -78,4 +66,3 @@
     }
   ]
 }
-
