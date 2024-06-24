@@ -1,53 +1,19 @@
-{
-	"Ads": 
-	[
-		{
-			"status":"1",
-			"interval-ads-inters":"2",
-			"interval-ads-rewa":"0",
-			"interval-ads-native":"0",
-			"main-ads":"Admob",
-			"backup-ads":"FBAds",
-			"backup-status":"1",
-			"unity-test-mode":true,
-			"appid":"ca-app-pub-3940256099942544~3347510000",
-			"banner":"ca-app-pub-3940256099942544/6300978111",
-			"inters":"ca-app-pub-3940256099942544/1033173712",
-			"rewa":"ca-app-pub-3940256099942544/5224354917",
-			"native":"ca-app-pub-3940256099942544/2247696110",
-			"openapp":"ca-app-pub-3940256099942544/3419835294",
-			"backup-appid":"",
-			"backup-banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-			"backup-inters":"",
-			"backup-rewa":"",
-			"backup-native":"",
-			"backup-openapp":"",
-			"app_suspend":false,
-			"link_app_redirect":"https://play.google.com/store/apps/details?id=me.pou.app"
-		}
-	],
-	"More":
-	  [
-		{
-		  "title":"Ludo King",
-		  "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-		  "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-		},
-		{
-		  "title":"Homescapes",
-		  "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-		  "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-		},
-		{
-		  "title":"IQ Test",
-		  "image":"https://play-lh.googleusercontent.com/N96AyM9gIV7vzMksZfQwM3dpk8F4H1KiMeJKon5xqb-p8iKbkUtArL7SAhvYRhIuRPJT=s180-rw",
-		  "link":"https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
-		},
-		{
-		  "title":"10K Skin",
-		  "image":"more/10k.png",
-		  "link":"https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
-		}
-	  ]
-  
- }
+{"appName":"wednesday_sweet",
+    "admob_publisher_id": "000",
+    "banner_id":"ca-app-pub-3940256099942544/6300978111",
+    "inter_id":"ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id":"000",
+    "admob_reward_id":"000",
+    "unity_id":"000",
+    "fan_inter_id":"c27ccdddaa93ad05",
+    "fan_banner_id":"IMG_16_9_APP_INSTALL#1289551311527753_1289580521524832",
+    "fan_reward_id":"000",
+    "fan_native_id":"IMG_16_9_APP_INSTALL#782095786538726_782096519871986",
+    "count_inter":1,
+    "check_cpa_id":0,
+    "url_cpa_id":"",
+    "url_img_cpa_id":"",
+    "app_name_ads_id":"",
+    "url_img_app_id":"",
+    "url_app_id":"",
+    "url_ytb_id":""}
