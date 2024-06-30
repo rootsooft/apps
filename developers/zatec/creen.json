@@ -10,7 +10,7 @@
     "redirect_url": "https://play.google.com/store/apps/details?id=com.FakeCall.VladCalling.VideoChat",
     "adsType": "Admob",
     "nativeType": "Admob",
-    "inter_show_count": 3
+    "inter_show_count": 1
   },
   "admob": {
     "Banner": "ca-app-pub-3940256099942544/6300978111",
