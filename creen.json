@@ -5,9 +5,9 @@
     "img": "https://play-lh.googleusercontent.com/WjXoRzJKWHJ_x52qWYA6ECM70bq3x0vwwYiBhzLXdOIHCo-obdUTztPbskEn0K8_wBs=s180-rw",
     "title": "Call",
     "message": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of  for help from .",
-    "adsType": "Admob",
+    "adsType": "facebook",
     "nativeType": "Admob",
-    "inter_show_count": 1
+    "inter_show_count": 6
   },
   "admob": {
     "Banner": "ca-app-pub-3940256099942544/6300978111",
