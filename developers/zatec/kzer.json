@@ -11,8 +11,8 @@
     "adsType": "Admob",
     "nativeType": "Admob",
     "inter_show_count": 3
-  },
-    "admob": {
+ },
+  "admob": {
     "Banner": "ca-app-pub-3940256099942544/6300978111",
     "Inter": "ca-app-pub-3940256099942544/8691691433",
     "Native": "ca-app-pub-3940256099942544/2247696110",
@@ -37,127 +37,9 @@
     "Banner": "Banner_Android",
     "Inter": "Interstitial_Android"
   },
-[
-  {
-    "name": "Princess Fake Call",
-    "packageName": "com.FakeCall.PrincessCall.VideoChat",
-    "icon": "https://play-lh.googleusercontent.com/dBesmoCPI_WeE50oyMeEE9mdLd21wcIgAPXOrLSt4ZacyhbQJogYUMLnmspFGziN8Fo=w240-h480-rw",
-    "screenShot": [
-      "https://lh3.googleusercontent.com/qzR86oPJZaxgS0AYZFTJ9AtKEhY720O6Aws7c4Zdcf-zoLcwZo7ngdZR9tOPS76Yfzc=h315"
-    ]
-  },{
-    "name": "Vlad Fake Call",
-    "packageName": "com.FakeCall.VladCalling.VideoChat",
-    "icon": "https://play-lh.googleusercontent.com/0zeiM6Xm7tn-5118WCKAvB_OksGPEG-ZGl8AryGYA533S1QeqzIJWhB2nXAAVngukQ=w240-h480-rw",
-    "screenShot": [
-      "https://lh3.googleusercontent.com/tcKvfqbOPid7h5Jrd7UUE3LNtNlyLKdmx3tBnSWrk70hUIMUngC9F_Xgs1EMTp-VSA=h315"
-    ]
-  },{
-    "name": "BTS Fake Call",
-    "packageName": "com.FakeCall.BtsJiminCall.VideoChat",
-    "icon": "https://play-lh.googleusercontent.com/_5sBXPtpJXg4sSGY9nxfX6N2Z2o-AeoqgOuBupOgjqwioDhYyvX-yyrBr7B2EnMJ7WpV=w240-h480-rw",
-    "screenShot": [
-      "https://lh3.googleusercontent.com/YvJDlHaQi1ItM-fvTjXKm-bwdA2CIObhpau9DLOf_yUshD-TKfx5gkzkjrYAoNp_GCQ=h315"
-    ]
-  },{
-    "name": "BlackPink Fake Call",
-    "packageName": "com.FakeCall.blackPinkCalls.VideoChat",
-    "icon": "https://play-lh.googleusercontent.com/aChXILUCqJckNhhufwbSXVg5MCjqULs28w_rgLKd3qLhVElxuEECksauGzuHFyAMkktk=w240-h480-rw",
-    "screenShot": [
-      "https://lh3.googleusercontent.com/09i1LKPRs2X--o7Jmt5UmzCNbOhWEJ6gAHHSn_VINqE6gtmp-U8qNnGJwMc8Vjaj0s4=h315"
-    ]
-  },{
-    "name": "Adley Fake Call",
-    "packageName": "com.FakeCall.AdleyCalls.VideoChat",
-    "icon": "https://play-lh.googleusercontent.com/MB643Slh8XLVkaVTBN4VovNYUzd8yBMDsuZrxG3xmcE-dXS2B_mDmSBhZtojaUPYl-E=w240-h480-rw",
-    "screenShot": [
-      "https://lh3.googleusercontent.com/4dSBP3dwnJXqHUqGVQQG4KBplLGBS3KaEZx4ESdTv4EmBG2cQbQgb2QQwfqC5kO9rdc=h315"
-    ]
-  }
-]
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"file:///android_asset/ludo.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"file:///android_asset/home.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"file:///android_asset/mine.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    },
-    {
-      "id":4,
-      "title":"Sonic the Hedgehog™ Classic",
-      "image":"file:///android_asset/sonic.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
-    },
-    {
-      "id":5,
-      "title":"War Machines: Best Free Online War & Military Game",
-      "image":"file:///android_asset/machine.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
-    },
-    {
-      "id":6,
-      "title":"Tank vs Helicopter. Free War Game: Massive Warfare",
-      "image":"file:///android_asset/heli.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
-    }
-  ],
-  "Item":
-  [
-    {
-      "id":1,
-      "name":"Ludo King",
-      "image_url":"file:///android_asset/mine.webp",
-      "video_url":"footbal",
-      "voice_url":"dosa_membawa_keburukan.mp3"
-    },
-    {
-      "id":2,
-      "name":"Homescapes",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/home.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
-    },
-    {
-      "id":3,
-      "name":"Minecraft",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/ludo.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
-    },
-    {
-      "id":4,
-      "name":"Sonic the Hedgehog™ Classic",
-      "image_url":"file:///android_asset/sonic.webp",
-      "video_url":"footbal",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
-    },
-    {
-      "id":5,
-      "name":"War Machines: Best Free Online War & Military Game",
-      "image_url":"file:///android_asset/machine.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
-    },
-    {
-      "id":6,
-      "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/heli.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"dosa_membawa_keburukan.mp3"
-    }
-  ]
+  "unityId": "4917965",
+  "TestUnity": false,
+  "wallpaper": [
 
+  ]
 }
