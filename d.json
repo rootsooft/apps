@@ -25,10 +25,10 @@
     
   "AdsController": {
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
-    "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "admob",
+    "BannerNetwork"           : "facebook",
+    "InterstitialNetwork"     : "facebook",
+    "RewardNetwork"           : "facebook",
+    "NativeNetwork"           : "facebook",
     
     "IntervalClick"           : 3,
     
