@@ -1,15 +1,15 @@
 {
     
   "AppRedirect": {
-    "status"                  : true,
+    "status"                  : false,
     "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.dinacall"
   },
     "AppSettings": {
     "ad_status":              "1",
-    "adHome_Banner":          "1",
-    "adMain_Banner":          "1",
+    "adHome_Banner":          "0",
+    "adMain_Banner":          "0",
     "adLive_Banner":          "1",
-    "adSettings_Banner":      "1",
+    "adSettings_Banner":      "0",
     "adLogin_Banner":         "0",
     "adChat_Banner":          "0",
     "adChat_Banner_Promote":  "1",
@@ -25,10 +25,10 @@
     
   "AdsController": {
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
-    "BannerNetwork"           : "facebook",
-    "InterstitialNetwork"     : "facebook",
-    "RewardNetwork"           : "facebook",
-    "NativeNetwork"           : "facebook",
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "RewardNetwork"           : "admob",
+    "NativeNetwork"           : "admob",
     
     "IntervalClick"           : 3,
     
