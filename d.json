@@ -6,10 +6,10 @@
   },
     "AppSettings": {
     "ad_status":              "1",
-    "adHome_Banner":          "0",
-    "adMain_Banner":          "0",
+    "adHome_Banner":          "1",
+    "adMain_Banner":          "1",
     "adLive_Banner":          "1",
-    "adSettings_Banner":      "0",
+    "adSettings_Banner":      "1",
     "adLogin_Banner":         "0",
     "adChat_Banner":          "0",
     "adChat_Banner_Promote":  "1",
