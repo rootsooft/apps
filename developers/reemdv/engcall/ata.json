@@ -1,0 +1,56 @@
+{
+  "AppRedirect": {
+    "status"                  : false,
+    "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.dinacall"
+  },
+    "AppSettings": {
+    "ad_status":              "1",
+    "adHome_Banner":          "1",
+    "adMain_Banner":          "1",
+    "adLive_Banner":          "1",
+    "adSettings_Banner":      "1",
+    "adLogin_Banner":         "0",
+    "adChat_Banner":          "0",
+    "adChat_Banner_Promote":  "1",
+    "adRandomCall_Banner":    "1",
+    "adContact_Banner":       "1",
+    "adMore_Banner":          "1",
+    "adAcceptCall_Banner":    "1",
+    "adAcceptVideo_Banner":   "1", 
+    "adAbout_Banner":         "0",
+    "Video_Banner":           "1",
+    "Player_Banner":          "1",
+    "Tic_Chose_Banner":       "1", 
+    "Tic_Games_Banner":       "1",  
+    "privacy_link":           "https://sites.google.com/view/reemdev",
+    "video_link" :            ""
+  },
+    
+  "AdsController": {
+    "readMe"                  : "you can use : admob or facebook or applovin or promote",
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "RewardNetwork"           : "admob",
+    "NativeNetwork"           : "admob",
+      
+    "IntervalClick"           : 1,
+    
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    
+    "Facebook_Banner"         : "675924874735634_676257098035745",
+    "Facebook_InterstitialAd" : "675924874735634_676274238034031",
+    "Facebook_RewardAd"       : "675924874735634_676274458034009",
+    "Facebook_Native"         : "1552879805615778_1552881435615615",
+      
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_RewardAd"       : "76af75d288a7ada9",
+    "Applovin_Native"         : "76af75d288a7ada9",
+    
+    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/dinacall/perso.json"
+
+  }
+}
