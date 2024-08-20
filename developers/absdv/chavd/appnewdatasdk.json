@@ -16,7 +16,7 @@
   "ads": [
     {
       "ad_status": "1",
-      "ad_type": "admob",
+      "ad_type": "facebook",
       "backup_ads": "none",
       "video_status": "1",
       "nativ_star_status": "0",
