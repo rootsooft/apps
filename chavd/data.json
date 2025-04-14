@@ -5,7 +5,7 @@
     "redirect_link":          "https://play.google.com/store/apps/details?id=chavd.com.absdev"
   },
     "AppSettings": {
-    "adHome_Banner":          "1",
+    "adHome_Banner":          "0",
     "adStar_Banner":          "1",
     "adSettings_Banner":      "1",
     "adMainOffline_Banner":   "0",
@@ -22,17 +22,17 @@
     "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "promote",
+    "NativeNetwork"           : "admob",
     
-    "IntervalClick"           : 1,
+    "IntervalClick"           : 3,
     
-    "AdMob_Banner"            : "ca-app-pub-1778309717892354/8934923069",
-    "AdMob_InterstitialAd"    : "ca-app-pub-1778309717892354/3407812956",
-    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_Native"            : "ca-app-pub-1778309717892354/4090339239",
+    "AdMob_Banner"            : "ca-app-pub-1778309717892354/6661365478",
+    "AdMob_InterstitialAd"    : "ca-app-pub-1778309717892354/9384839614",
+    "AdMob_RewardAd"          : "ca-app-pub-1778309717892354/7003068915",
+    "AdMob_Native"            : "ca-app-pub-1778309717892354/8902489852",
     
-    "Facebook_Banner"         : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_Banner"         : "1152248535879107_1152276229209671",
+    "Facebook_InterstitialAd" : "1152248535879107_1152276555876305",
     "Facebook_RewardAd"       : "692961278482629_857106118734810",
     "Facebook_Native"         : "692961278482629_857100538735368",
     
@@ -41,7 +41,7 @@
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     "Applovin_Native"         : "76af75d288a7ada9",
     
-    "promote_URL"             : "https://raw.githubusercontent.com/saidmotya/GFX-AdPromote/master/ScreenShot/MyPromote.json"
+    "promote_URL"             : "https://rootsooft.github.io/apps/chavd/persoapp.json"
 
   }
 }
