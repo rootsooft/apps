@@ -1,0 +1,116 @@
+{
+    "AppsPromote": [
+    {
+      "name"        : "ديانا وروما فيديو بدون نت",
+      "packageName" : "com.reemdev.dinaroma",
+      "icon"        : "https://play-lh.googleusercontent.com/Qe3Kkam1dETf9V81F0Tm0egkdbtSTWYgwLTLf2Gp8fUpEV-gxPbluq1NYTRupfRPpg=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/YBhuoKV7JGR-0X4pkXBHjbURvvDHcfpZPVLRd8H8wh4isUtVCXDYGdIzjchRI4Lx4Dz0=w416-h235-rw",
+      "shortDescription": "شاهد أروع المقاطع 🤩",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+     {
+      "name"        : "مقاطع ستايسي فيديو بدون نت",
+      "packageName" : "com.reemdev.staysi",
+      "icon"        : "https://play-lh.googleusercontent.com/MT2GO5pMcRRNWI5FiEUwXXYx8NLT9r3VGgogGVYRtvV2WuzgMQz-M9TdZicrac7L4mI=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/oksMLU2tYEfMaoG9GAi3fttFckyWKsyLP7Orib_ud66JZzfkIySRaH8jP2q9fwdiB27I=w416-h235-rw",
+      "shortDescription": "شاهد أروع 🤩  مقاطع ستايسي",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+     { 
+      "name"        : "لعبة ديانا وروما مكالمة وهمية",
+      "packageName" : "com.reemdev.dinacall",
+      "icon"        : "https://play-lh.googleusercontent.com/X-50OlClxWV-NhSDxN0YidhHnhL8RnUujlq_zh7EMZanQlrq7uwTPSR2mJ-AyUfX_A=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/yHJx3s6Zv5598KhAWIoso4YSG_TDUi9K-6epsuYPTKgavJcWjnsFVeN2hU-SNX2Gzw=w416-h235-rw",
+      "shortDescription": "دردشة مع ديانا وروما 📞",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "مقالب شفا و سوسو بدون نت",
+      "packageName" : "com.reemdev.three",
+      "icon"        : "https://play-lh.googleusercontent.com/Pwz6RBlwJkQDAcfDVer3aDt2lgVagzp2pfaVpudd9giX6q7X7YYCC16-p0bNnw3x9Qs=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/h9Q5XJIq6HibayqqSvnnuNetyRekA60v187wQrNVaKoI08ZxzClO3zv-iaDKnQs1xQA=w416-h235-rw",
+      "shortDescription": "أجمل اللقطات مع مقالب شفا و سوسو بدون نت 👋",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+  {
+      "name"        : "مقاطع فيديو قصي وليد الغابر",
+      "packageName" : "com.reemdev.vtwo",
+      "icon"        : "https://play-lh.googleusercontent.com/qzKRwOpjQ8n6gRWRzdRi8Er6VzGFITSoVKb4bzG7cCoGWeF0ONEYqBH8-JC0cbgl6K4R=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/Iop84yW235jyb1lXr4Qac9WqVP2-1CM-eSElyI_ahEMEm3evLgZGR8Ur8QOiDy2TIQA=w416-h235-rw",
+      "shortDescription": "أجمل اللقطات مع قصي ووليد الغابر 👋",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "مقاطع فيديو ومقالب شفا بدون نت",
+      "packageName" : "com.reemdev.vone",
+      "icon"        : "https://play-lh.googleusercontent.com/FQEXu7KMOrEDRpR-hco7CG_nFVaChBKl5SOJ5tFYa05FiMU2CQRN3bgSYBb3tAxRNLo=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/AhGGc5qP5yCBSRyq58PlHd9nx-nOH6vQtfCdxt3WfR4wC_pVvdDRKGB28Xbs57Fsm3o=w416-h235-rw",
+      "shortDescription": "طرائف شفا ❤️",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      
+      "name"        : "ستايسي مقاطع فيديو بدون نت",
+      "packageName" : "com.reemdev.staisione",
+      "icon"        : "https://play-lh.googleusercontent.com/IlP2ghN86hW3T8lRhVbY9NGFQbGoOxBTjUCBCZX6kpMR6zbVzjzSWqPBeGRYLBqpmUCh=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/Q6N_K7GZl7ya5o4OAmqevNluQ5SQ4JdiUaHGdFDL7XPQItKAKzx3kVcprfv7J5XqKg=w416-h235-rw",
+      "shortDescription": "أجمل اللقطات مع ستايسي 👋",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+  {
+      "name"        : "لعبة شفا و سوسو تتصل بك",
+      "packageName" : "com.reemdev.shafacall",
+      "icon"        : "https://play-lh.googleusercontent.com/e43X2QB9oP-TrLYppW5blsQDRNUBJMUVfooEEjzzkAKLFrh2ZWQcdIMC_RELJNKdLds=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/IKkLHDVll_gXr8AvjntyixhtsGRtZIn3ddWRHyGyZjYFI2ei-RLk3FPDrNo4EXWAKKw=w416-h235-rw",
+      "shortDescription": "إتصل بشفا مكالمة ودردشة 📞",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    }
+    
+  ],
+    
+  "YoutubePromote": [
+    {
+      "title"        : "FUNNY CHALLENGE 🤩",
+      "icon"         :"https://yt3.googleusercontent.com/3eUCMW9bm58QSodERr7fGL5TPb2rQ3Z6DGluB_1Spg3UD-GBToYKueBvuuxRya27XX6DueFHpQ=s176-c-k-c0x00ffffff-no-rj",
+      "preview"      : "https://i.ytimg.com/vi_webp/L90nShCP7PU/maxresdefault.webp",
+      "preview-small": "https://i.ytimg.com/vi_webp/L90nShCP7PU/maxresdefault.webp",
+      "watch"        : "https://www.youtube.com/",
+      "channel"      : "https://www.youtube.com/",
+      "Description"  : "We loved making challenge \n between your characters into popular games"
+    }
+  ]
+  
+  
+}
